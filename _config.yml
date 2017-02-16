@@ -17,8 +17,8 @@ title: Katkatha
 email: katkathapuppet@gmail.com
 description: >
   Katkatha Puppet Arts 
-baseurl: "/Katkatha" # the subpath of your site, e.g. /blog
-url: "http://shreshthkhilani.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://test.katkatha.org" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
